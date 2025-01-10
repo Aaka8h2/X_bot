@@ -7,7 +7,7 @@ import traceback
 
 
 token = "7886528180:AAFLd7UYfCBDCwHkBOmLewsItCBasnj1was"
-IDOWNER = 5983253591,6678473804
+IDOWNER = 5983253591
 
 a = True
 bb = True
